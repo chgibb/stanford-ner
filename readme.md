@@ -1,6 +1,6 @@
 ### This is a fork of Stanford NLP's NER.
 ### Unicode filtering has been removed, along with the ability to run in servlet mode.
-### Used as the backbone of the nerServer module in https://github.com/chgibb/reimagined-pancake
+### Used as the backbone of the nerLearner module in https://github.com/chgibb/reimagined-pancake
 
 
 Stanford NER - Jan 2009
